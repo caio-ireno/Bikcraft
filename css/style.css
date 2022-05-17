@@ -1,3 +1,9 @@
-@import "./global/header.css";
+/*lembrar da ordem de importancia na sequencia dos "imports"*/
+
 @import "./global/global.css";
-@import "./global/introducao.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+@import "./global/header.css";
+@import "./home/introducao.css";
+@import "./utilidades/componentes.css";
+
