@@ -8,11 +8,9 @@
   justify-content: space-between;
   align-items: center;
   gap: 20px; /*quebra quando chega a 20px*/
-  padding: 20px;
-  box-sizing: border-box;
-  max-width: 1200px; /* define um tamanho maximo para o site */
-  margin-left: auto; /* deixa o conteudo alinhado ao centro caso chega no max width */
-  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
 }
 
 .header-menu {
