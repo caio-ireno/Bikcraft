@@ -1,1 +1,1 @@
-<img src="./IMG-README" alt="Bikcraft">
+<img src="./IMG-README.JPG" alt="perfil" width="100%">
